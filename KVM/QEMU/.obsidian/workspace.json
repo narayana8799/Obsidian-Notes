@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9236e1a478d69f52",
@@ -179,6 +178,7 @@
   },
   "active": "eed1ed7d7644bfd6",
   "lastOpenFiles": [
+    "5. Network and Storage.md",
     "0 . Cheat Sheet.md",
     "7. Templates and Snapshots.md",
     "Pasted image 20241125145309.png",
@@ -186,7 +186,6 @@
     "3. Setting up Standalone KVM Virtualization.md",
     "6. VM Life cycle Management.md",
     "Untitled.md",
-    "5. Network and Storage.md",
     "Pasted image 20241120174813.png",
     "Pasted image 20241120175653.png",
     "Pasted image 20241120182406.png",
