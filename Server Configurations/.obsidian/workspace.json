@@ -1,38 +1,24 @@
 {
   "main": {
-    "id": "f738a2524de6c3df",
+    "id": "903ae28fa53cc3a6",
     "type": "split",
     "children": [
       {
-        "id": "bc21c95a0e413cf3",
+        "id": "259be90d6624e5ba",
         "type": "tabs",
         "children": [
           {
-            "id": "e1bdc0a1f5f01697",
+            "id": "b5928a9a6798547f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 . Cheat Sheet.md",
+                "file": "3. Web Servers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 . Cheat Sheet"
-            }
-          },
-          {
-            "id": "86b78a2812a047d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9. Software-Defined Networking for KVM Virtualization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Software-Defined Networking for KVM Virtualization"
+              "title": "3. Web Servers"
             }
           }
         ]
@@ -41,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5888df43d4ecfb52",
+    "id": "4139916e527c7021",
     "type": "split",
     "children": [
       {
-        "id": "5e487cd196f78782",
+        "id": "b3c3432245e9b151",
         "type": "tabs",
         "children": [
           {
-            "id": "b18576a3408f2600",
+            "id": "16f03483d4835ace",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +47,7 @@
             }
           },
           {
-            "id": "7c029ce8787bfcaf",
+            "id": "062d39f37c29af7e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +64,7 @@
             }
           },
           {
-            "id": "da78aa63b8677bb1",
+            "id": "64343fe8c898bd08",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,24 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "9236e1a478d69f52",
+    "id": "5b38e8118678ba1a",
     "type": "split",
     "children": [
       {
-        "id": "dafd2b0e7c4c6749",
+        "id": "bf2380dc10b32b65",
         "type": "tabs",
         "children": [
           {
-            "id": "8b28c606f6d8e73b",
+            "id": "c1fce1a46e431377",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. VM Life cycle Management.md",
+                "file": "3. Web Servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. VM Life cycle Management"
+              "title": "Backlinks for 3. Web Servers"
             }
           },
           {
-            "id": "4691662ed5cee3dc",
+            "id": "382c5194345ce3e2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting up standalone KVM Virtualization.md",
+                "file": "3. Web Servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Setting up standalone KVM Virtualization"
+              "title": "Outgoing links from 3. Web Servers"
             }
           },
           {
-            "id": "c97ac1b1b58fec31",
+            "id": "60af613c1b69f5ba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,15 +134,15 @@
             }
           },
           {
-            "id": "bc2c952ee4edcda3",
+            "id": "fc53b4cf8f31ba56",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting up standalone KVM Virtualization.md"
+                "file": "3. Web Servers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Setting up standalone KVM Virtualization"
+              "title": "Outline of 3. Web Servers"
             }
           }
         ]
@@ -177,23 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1bdc0a1f5f01697",
+  "active": "b5928a9a6798547f",
   "lastOpenFiles": [
-    "9. Software-Defined Networking for KVM Virtualization.md",
-    "0 . Cheat Sheet.md",
-    "7. Templates and Snapshots.md",
-    "Pasted image 20241128113217.png",
-    "5. Network and Storage.md",
-    "Pasted image 20241125145309.png",
-    "4. Getting started with libvirt.md",
-    "3. Setting up Standalone KVM Virtualization.md",
-    "6. VM Life cycle Management.md",
-    "Pasted image 20241120174813.png",
-    "Pasted image 20241120175653.png",
-    "Pasted image 20241120182406.png",
-    "Pasted image 20241120124818.png",
-    "Images/libvirt.png",
-    "Images",
+    "2. Postfix - SMTP Server.md",
+    "1. BIND9 - DNS Server.md",
+    "Untitled.md",
+    "Pasted image 20240722170655.png",
+    "7. File Sharing.md",
+    "6. Squid Caching and Proxy Server.md",
+    "5. OLDAP.md",
+    "4. DHCP Server.md",
+    "3. Web Servers.md",
     "Welcome.md"
   ]
 }
