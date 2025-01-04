@@ -35,7 +35,8 @@
               "title": "9. Software-Defined Networking for KVM Virtualization"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1bdc0a1f5f01697",
+  "active": "86b78a2812a047d6",
   "lastOpenFiles": [
-    "9. Software-Defined Networking for KVM Virtualization.md",
     "0 . Cheat Sheet.md",
+    "9. Software-Defined Networking for KVM Virtualization.md",
     "7. Templates and Snapshots.md",
     "Pasted image 20241128113217.png",
     "5. Network and Storage.md",
