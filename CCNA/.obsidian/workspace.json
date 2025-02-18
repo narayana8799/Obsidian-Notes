@@ -170,8 +170,10 @@
   },
   "active": "9fcfea64aaba39d6",
   "lastOpenFiles": [
-    "2. OSI Model and TCP IP Suite.md",
     "1. Interfaces.md",
+    "Ethernet LAN Switching.md",
+    "2. OSI Model and TCP IP Suite.md",
+    "0. Commands.md",
     "Images/crossover.png",
     "Images/10and100.png",
     "Images/1000and10G.png",
@@ -181,7 +183,6 @@
     "Images/338796209-907259d9-1837-4d53-8f45-a42934fb66f2.png",
     "Images",
     "New folder",
-    "0. Commands.md",
     "Welcome.md"
   ]
 }
