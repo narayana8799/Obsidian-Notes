@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Helper.md",
+                "file": "0. Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0. Helper"
+              "title": "Backlinks for 0. Commands"
             }
           },
           {
